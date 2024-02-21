@@ -1,0 +1,15 @@
+BENEFITS OF NODEJS
+===================
+
+
+Scalability
+Simple to learn
+Large community support
+Web App Development Speed
+Single programming language
+Freedom to develop cross platform App
+High performance
+Cross platform development
+Extensibility
+Improved App Response Time
+Caching
